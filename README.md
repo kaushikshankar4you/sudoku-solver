@@ -1,3 +1,3 @@
 # sudoku-solver
 
-Console based Sudoku solver using Backtracting Algorithm.
+Console based Sudoku solver using Backtracking Algorithm.
