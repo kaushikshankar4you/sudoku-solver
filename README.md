@@ -1,5 +1,3 @@
 # sudoku-solver
 
-Console based Sudoku solver.
-
-To some extent intuitive, mostly brute force.
+Console based Sudoku solver using Backtracting Algorithm.
